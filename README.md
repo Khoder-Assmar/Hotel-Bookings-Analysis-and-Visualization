@@ -14,6 +14,7 @@
 - Geographic Insights: Identified the top countries contributing the most to reservation cancellations.
 - Tools & Libraries
 
-Python: - Utilized for the overall data handling and analysis.
-Pandas: - Applied for data processing and cleaning tasks.
-Matplotlib & Seaborn: - Used to generate meaningful data visualizations
+# Technologu Used:
+-- Python:  Utilized for the overall data handling and analysis.
+-- Pandas:  Applied for data processing and cleaning tasks.
+-- Matplotlib & Seaborn:  Used to generate meaningful data visualizations
