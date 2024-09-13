@@ -15,6 +15,6 @@
 - Tools & Libraries
 
 # Technologu Used:
--- Python:  Utilized for the overall data handling and analysis.
--- Pandas:  Applied for data processing and cleaning tasks.
--- Matplotlib & Seaborn:  Used to generate meaningful data visualizations
+# Python: Utilized for the overall data handling and analysis.
+# Pandas:  Applied for data processing and cleaning tasks.
+# Matplotlib & Seaborn:  Used to generate meaningful data visualizations
